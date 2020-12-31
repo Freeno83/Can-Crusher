@@ -7,7 +7,7 @@ There were many comments in that video requesting a BOM and drawings but none we
 
 There should be enough in this repository to get you started if you are interested to build your own including:
 
-- Link to Autodesk Fusion 360 3D model
+- [Link](https://a360.co/3pBXDni) to Autodesk Fusion 360 3D model
 - BOM
 - PLC code
 - Termination digarm
