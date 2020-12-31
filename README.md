@@ -12,7 +12,7 @@ There should be enough in this repository to get you started if you are interest
 - PLC code
 - Termination digarm
 
-**Disclaimer**
+**Disclaimer**: 
 I in no way certify this project to be any of the following:
 - Inexpensive
 - 100% safe
