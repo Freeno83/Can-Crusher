@@ -21,7 +21,7 @@ I in no way certify this project to be any of the following:
 So if you decide to build it yourself, please take care and if you build one that is really cool or significatly less costly, let me know!
 
 <p align="left">
-  <img src="https://github.com/Freeno83/Can-Crusher/blob/main/Can%20Crusher%203D%20-%20NR%2003Jan21.PNG" width="350" title="Can Crusher">
+  <img src="https://github.com/Freeno83/Can-Crusher/blob/main/Can%20Crusher%203D.PNG" width="350" title="Can Crusher">
 </p>
 
 Click the image below to watch can crusher in action!
