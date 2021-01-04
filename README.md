@@ -9,8 +9,8 @@ There should be enough in this repository to get you started if you are interest
 
 - [Link](https://a360.co/3pBXDni) to Autodesk Fusion 360 3D model - password: password
 - BOM
-- PLC code
-- Termination digarm
+- PLC code (you can see how to wire by reading input and output routines)
+
 
 **Disclaimer**: 
 I in no way certify this project to be any of the following:
@@ -21,7 +21,7 @@ I in no way certify this project to be any of the following:
 So if you decide to build it yourself, please take care and if you build one that is really cool or significatly less costly, let me know!
 
 <p align="left">
-  <img src="https://github.com/Freeno83/Can-Crusher/blob/main/Can%20Crusher%203D%20-%20NR%2031Dec20.PNG" width="350" title="Can Crusher">
+  <img src="https://github.com/Freeno83/Can-Crusher/blob/main/Can%20Crusher%203D%20-%20NR%2003Jan21.PNG" width="350" title="Can Crusher">
 </p>
 
 Click the image below to watch can crusher in action!
